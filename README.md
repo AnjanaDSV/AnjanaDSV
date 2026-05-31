@@ -22,12 +22,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [ats-tracker](https://github.com/AnjanaDSV/ats-tracker) | AI-powered job application tracker with Claude AI resume keyword matching & dashboard analytics | Next.js · TypeScript · Claude API |
-| [HIPAA-PHI-masking-engine](https://github.com/AnjanaDSV/HIPAA-PHI-masking-engine) | PHI data masking engine for HIPAA compliance — audit logging, API layer, validation | Python |
-| [PlantDiseaseDetection](https://github.com/AnjanaDSV/PlantDiseaseDetection) | CNN-based tomato leaf disease classifier trained on PlantVillage dataset (4 classes) | Python · TensorFlow |
-| [pulse-ai](https://github.com/AnjanaDSV/pulse-ai) | Personal AI-powered daily news feed covering model releases, jobs & skills in 2026 | Next.js · Anthropic API |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [ats-tracker](https://github.com/AnjanaDSV/ats-tracker) | AI-powered job application tracker with Claude AI resume keyword matching & dashboard analytics | Next.js · TypeScript · Claude API | [🔗 Live App](https://ats-tracker-sable.vercel.app) |
+| [HIPAA-PHI-masking-engine](https://github.com/AnjanaDSV/HIPAA-PHI-masking-engine) | PHI data masking engine for HIPAA compliance — audit logging, API layer, validation | Python | — |
+| [PlantDiseaseDetection](https://github.com/AnjanaDSV/PlantDiseaseDetection) | CNN-based tomato leaf disease classifier trained on PlantVillage dataset (4 classes) | Python · TensorFlow | — |
+| [pulse-ai](https://github.com/AnjanaDSV/pulse-ai) | Personal AI-powered daily news feed covering model releases, jobs & skills in 2026 | Next.js · Anthropic API | [🔗 Live App](https://pulse-ai-mocha.vercel.app) |
 
 ---
 
