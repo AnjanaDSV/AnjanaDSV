@@ -34,4 +34,4 @@
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/anjana-d27)
-- - 📧 anjana.dsv@gmail.com
+- 📧 anjana.dsv@gmail.com
