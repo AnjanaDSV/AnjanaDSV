@@ -12,6 +12,8 @@
 
 **Data Engineering:** Apache Spark · Kafka · Databricks · Delta Lake · Snowflake · DBT · Apache Airflow · Azure Data Factory
 
+**AI & LLM:** Claude API · LangChain · LangGraph · RAG pipelines · MCP servers · Hugging Face · Qdrant · Milvus · Vector embeddings (CLIP ViT-B/32) · MLflow · RAGAS · FastAPI
+
 **Languages:** Python · SQL/PL-SQL · TypeScript · Scala · Shell Scripting
 
 **Databases:** PostgreSQL · SQL Server · MongoDB · SAP HANA
