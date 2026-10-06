@@ -2,6 +2,8 @@
 
 **Data Engineer** with 4+ years of experience building scalable ETL/ELT pipelines, real-time streaming systems, and cloud-native data platforms across retail, healthcare, legal, and banking domains.
 
+🌐 **Portfolio:** [anjana-portfolio-nine.vercel.app](https://anjana-portfolio-nine.vercel.app)
+
 ---
 
 ## 🔧 Tech Stack
@@ -33,5 +35,6 @@
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/anjana-d27)
+- 🌐 [Portfolio](https://anjana-portfolio-nine.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjana-devarakonda/)
 - 📧 anjana.dsv@gmail.com
