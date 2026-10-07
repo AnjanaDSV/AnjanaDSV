@@ -29,11 +29,11 @@
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | [espresso-lens](https://github.com/AnjanaDSV/espresso-lens) | Espresso shot diagnostics with computer vision and vector embeddings: detects channeling, uneven flow and crema quality, with semantic search over past brews | TypeScript · OpenCV · Vector embeddings | — |
-| [document-intelligence-etl](https://github.com/AnjanaDSV/document-intelligence-etl) | ETL pipeline for auto insurance data: Python, SQLAlchemy ORM and PostgreSQL with sync and async (asyncpg) ingestion into a normalized schema | Python · SQLAlchemy · PostgreSQL | — |
+| [healthcare-rag-app](https://github.com/AnjanaDSV/healthcare-rag-app) | RAG over synthetic patient data (Synthea), evaluated with RAGAS and tracked in MLflow | Python · dbt · Qdrant · Claude API · FastAPI · Next.js | — |
 | [hipaa-phi-masking-engine](https://github.com/AnjanaDSV/hipaa-phi-masking-engine) | FastAPI service for HIPAA PHI masking: deterministic HMAC-SHA256 tokenization, zero-leakage validation and a full audit trail | Python · FastAPI · SQLite | — |
 | [pulse-ai](https://github.com/AnjanaDSV/pulse-ai) | AI-generated daily feed of AI news, model releases and in-demand skills | Next.js · Claude API | [🔗 Live App](https://pulse-ai-mocha.vercel.app) |
 | [promptctl](https://github.com/AnjanaDSV/promptctl) | Local-first CLI to version, A/B test and run AI prompts | JavaScript · SQLite · Claude API | — |
-| [healthcare-rag-app](https://github.com/AnjanaDSV/healthcare-rag-app) | RAG over synthetic patient data (Synthea), evaluated with RAGAS and tracked in MLflow | Python · dbt · Qdrant · Claude API · FastAPI · Next.js | — |
+| [document-intelligence-etl](https://github.com/AnjanaDSV/document-intelligence-etl) | ETL pipeline for auto insurance data: Python, SQLAlchemy ORM and PostgreSQL with sync and async (asyncpg) ingestion into a normalized schema | Python · SQLAlchemy · PostgreSQL | — |
 | [ats-tracker](https://github.com/AnjanaDSV/ats-tracker) | TRACK: AI-powered job application tracker with Claude resume-to-JD keyword matching and a response-rate dashboard | Next.js · Tailwind · Claude API | [🔗 Live App](https://ats-tracker-sable.vercel.app/) |
 
 ---
